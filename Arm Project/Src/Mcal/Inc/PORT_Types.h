@@ -130,7 +130,7 @@ This is A type for Writing Channel Levels in the Port Driver. High or Low
 
 typedef enum
 {
-Port_LowLevel=0 ,
+Port_LowLevel ,
 Port_HighLevel 
 }Port_PinLevelValueType;
 
